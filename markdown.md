@@ -109,6 +109,9 @@ Lists in Markdown can be in Markdown or HTML. They can be either ordered or un-o
 2. Second item
 3. Third item
 ```
+>**Note:**
+The numbers don't need to be in order. There just needs to be numbers i.e. they could all be 1 and the list will work fine.
+
 <sub>HTML:</sub>
 ```html
 <ol>
@@ -119,7 +122,7 @@ Lists in Markdown can be in Markdown or HTML. They can be either ordered or un-o
 ```
 <sub>Output:</sub>
 1. First Item
-2. Second Item
+3. Second Item
 3. Third Item
 ---
 ## Un-ordered List
@@ -131,7 +134,8 @@ Lists in Markdown can be in Markdown or HTML. They can be either ordered or un-o
     * Sub Sub Item
 * Third Item
 ```
-<em><b>Note:</b> The space before the Sub Items is important</em>
+>**Note:**
+The space before the Sub Items is important and the " * " can be replaced with either a " - " or a " + ".
 
 <sub>HTML:</sub>
 ```html
