@@ -1,23 +1,190 @@
-# Markdown only 
-In this section there will be only the markdown language. Markdown also supports HTML and that will be shown in the HTML section.
+# Markdown CheatSheet 
+This is a kinda pet project for me and a WIP for me to both learn/remember the language. Hopefully it will help me write better documentation one day... "Hopefully" <br/><br/>
+Markdown is a lightweight markup language that is used to create formatted text using a plain-text editor. It is a simple and easy-to-learn language that can be used to create a variety of documents, including blog posts, website pages, and technical documentation. Markdown uses a simple syntax that is based on punctuation marks, so it is easy to learn and remember.<br/><br/>
 
-## Headers
+## Index
+* [Headings](#headings)
+* [Lists](#lists)
+
+# Headings
+Headings in Markdown can be written in Markdown or HTML the choice is up to you.
+<br/>
+
+<!-- Heading H1 -->
+## H1 Heading
+<sub>Markdown:</sub>
+```markdown
+  # This is a H1 heading
+```
+<sub>HTML:</sub>
+```html
+<H1>This is a H1 heading</H1>
+```
+<sub>Output:</sub>
+# This is a H1 heading
 ---
-### Markdown \"#" eg. "#H1 Heading"
-# H1 Heading
+<br/>
 
-### Markdown \"##" eg. "#H2 Heading"
+<!-- Heading H2 -->
 ## H2 Heading
+<sub>Markdown:</sub>
+```markdown
+  # This is a H2 heading
+```
+<sub>HTML:</sub>
+```html
+<H1>This is a H2 heading</H1>
+```
+<sub>Output:</sub>
+## This is a H2 heading
+---
+<br/>
 
-### Markdown \"###" eg. "#H3 Heading"
-### H3 Heading
+<!-- Heading H3 -->
+## H3 Heading
+<sub>Markdown:</sub>
+```markdown
+  # This is a H3 heading
+```
+<sub>HTML:</sub>
+```html
+<H1>This is a H3 heading</H1>
+```
+<sub>Output:</sub>
+### This is a H3 heading
+---
+<br/>
 
-### Markdown \"####" eg. "#H4 Heading"
-#### H4 Heading
+<!-- Heading H4 -->
+## H4 Heading
+<sub>Markdown:</sub>
+```markdown
+  # This is a H4 heading
+```
+<sub>HTML:</sub>
+```html
+<H1>This is a H4 heading</H1>
+```
+<sub>Output:</sub>
+#### This is a H4 heading
+---
+<br/>
 
-### Markdown \"#####" eg. "#H5 Heading"
-##### H5 Heading
+<!-- Heading H5 -->
+## H5 Heading
+<sub>Markdown:</sub>
+```markdown
+  # This is a H5 heading
+```
+<sub>HTML:</sub>
+```html
+<H1>This is a H5 heading</H1>
+```
+<sub>Output:</sub>
+##### This is a H5 heading
+---
+<br/>
 
-### Markdown \"######" eg. "#H6 Heading"
-###### H6 Heading
+<!-- Heading H6 -->
+## H6 Heading
+<sub>Markdown:</sub>
+```markdown
+  # This is a H6 heading
+```
+<sub>HTML:</sub>
+```html
+<H1>This is a H6 heading</H1>
+```
+<sub>Output:</sub>
+###### This is a H6 heading
+---
+<br/>
 
+# Lists
+Lists in Markdown can be in Markdown or HTML. They can be either ordered or un-ordered i.e. with numbers or with dot points.
+## Ordered List
+<sub>Markdown:</sub>
+```markdown
+1. First item
+2. Second item
+3. Third item
+```
+<sub>HTML:</sub>
+```html
+<ol>
+  <li>First Item</li>
+  <li>Second Item</li>
+  <li>Third Item</li>
+</ol>
+```
+<sub>Output:</sub>
+1. First Item
+2. Second Item
+3. Third Item
+---
+## Un-ordered List
+<sub>Markdown:</sub>
+```markdown
+* First Item
+* Second Item
+  * Sub Item
+    * Sub Sub Item
+* Third Item
+```
+<em><b>Note:</b> The space before the Sub Items is important</em>
+
+<sub>HTML:</sub>
+```html
+<ul>
+  <li>First Item</li>
+  <li>Second Item</li>
+    <ul>
+      <li>Sub Item</li>
+        <ul>
+        <li>Sub Sub Item</li>
+        </ul>
+    </ul>
+  <li>Third Item</li>
+</ul>
+```
+
+<sub>Output:</sub>
+* First Item
+* Second Item
+  * Sub Item
+    * Sub Sub Item
+* Third Item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
