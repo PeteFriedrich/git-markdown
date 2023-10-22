@@ -18,160 +18,189 @@ Key features of Git:
   Initializes a new Git repository.
 <br/>
 
+---
 * ```git
   git add
   ```
   Adds files to the staging area, preparing them for commit.
 <br/>
 
+---
 * ```git
   git commit
   ```
   Creates a snapshot of changes, storing them in the repository history.
 <br/>
 
+---
 * ```git
   git status
   ```
   Displays the current state of the repository, including unstaged and staged changes.
 <br/>
 
+---
 * ```git
   git log
   ```
   Shows the commit history of the repository.
 <br/>
 
+---
 * ```git
   git branch
   ```
   Creates, lists, or deletes branches.
 <br/>
 
+---
 * ```git
   git checkout
   ```
   Switches between branches.
 <br/>
 
+---
 * ```git
   git merge
   ```
   Combines changes from multiple branches.
 <br/>
 
+---
 * ```git
   git push
   ```
   Uploads local commits to a remote repository.
 <br/>
 
+---
 * ```git
   git pull
   ```
   Downloads commits from a remote repository.
 <br/>
 
+---
 * ```git
   git stash
   ```
   Saves away uncommitted changes for later.
 <br/>
-  
+
+---  
 * ```git
   git reset
   ```
   Moves the HEAD pointer to a specific commit.
 <br/>
- 
+
+--- 
 * ```git
   git diff
   ```
   Shows the differences between two commits or files.
 <br/>
 
+---
 * ```git
   git tag
   ```
   Creates a marker in the commit historygit init: Initializes a new Git repository.
 <br/>
 
+---
 * ```git
   git add
   ```
   Adds files to the staging area, preparing them for commit.
 <br/>
-  
+ 
+--- 
 * ```git
   git commit
   ```
   Creates a snapshot of changes, storing them in the repository history.
 <br/>
-  
+
+---  
 * ```git
   git status
   ```
   Displays the current state of the repository, including unstaged and staged changes.
 <br/>
-  
+
+---  
 * ```git
   git log
   ```
   Shows the commit history of the repository.
 <br/>
-  
+
+---  
 * ``` git
   git branch
   ```
   Creates, lists, or deletes  branches.
 <br/>
-  
+
+---  
 * ```git
   git checkout
   ```
   Switches between branches.
 <br/>
-  
+
+---  
 * ```git
   git merge
   ```
   Combines changes from multiple branches.
 <br/>
-  
+
+---  
 * ```git
   git push
   ```
   Uploads local commits to a remote repository.
 <br/>
 
+---
 * ```git
   git pull
   ```
   Downloads commits from a remote repository.
 <br/>
-  
+
+---  
 * ```git
   git stash
   ```
   Saves away uncommitted changes for later.
 <br/>
-  
+
+---  
 * ```git
   git reset
   ```
   Moves the HEAD pointer to a specific commit.
 <br/>
-  
+
+---  
 * ```git
   git diff
   ```
   Shows the differences between two commits or files.
 <br/>
-  
+
+---  
 * ```git
   git tag
   ```
   Creates a marker in the commit history
+<br/>
+
+---
 
 
   
