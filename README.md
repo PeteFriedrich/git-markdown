@@ -5,3 +5,5 @@ I made this repository to practice and learn Git and Markdown language a bit bet
 
 * [Git](https://github.com/PeteFriedrich/git-markdown/blob/main/git.md)
 * [Markdown](https://github.com/PeteFriedrich/git-markdown/blob/main/markdown.md)
+
+If you don't see much happening in this repository it's probably because my main projects are taking up too much time. such is the life of a side project.
