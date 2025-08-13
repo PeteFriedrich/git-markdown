@@ -5,6 +5,8 @@ Markdown is a lightweight markup language that is used to create formatted text 
 ## Index
 * [Headings](#headings)
 * [Lists](#lists)
+* [Text manipulations](#Text Manipulations)
+* links
 
 # Headings
 Headings in Markdown can be written in Markdown or HTML the choice is up to you.
@@ -159,6 +161,8 @@ The space before the Sub Items is important and the " * " can be replaced with e
     * Sub Sub Item
 * Third Item
 
+# Text Manipulations
+Manipulating the text for things like bold or italics are done in markdown using either Markdown or HTML tags.
 
 
 
