@@ -6,7 +6,7 @@ Markdown is a lightweight markup language that is used to create formatted text 
 * [Headings](#headings)
 * [Lists](#lists)
 * [Manipulations](#Manipulations)
-* links
+* [links](#Links)
 
 # Headings
 Headings in Markdown can be written in Markdown or HTML the choice is up to you.
