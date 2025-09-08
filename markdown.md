@@ -6,8 +6,9 @@ Markdown is a lightweight markup language that is used to create formatted text 
 * [Headings](#headings)
 * [Lists](#lists)
 * [Manipulations](#Manipulations)
+** [bold text](#Bold Text)
 * [links](#Links)
-* [bold text](#Bold)
+
 
 # Headings
 Headings in Markdown can be written in Markdown or HTML the choice is up to you.
@@ -165,6 +166,13 @@ The space before the Sub Items is important and the " * " can be replaced with e
 # Manipulations
 Manipulating the text for things like bold or italics are done in markdown using either Markdown or HTML tags.
 
+# Bold Text
+```markdown
+Make the text **Bold** like this.
+```
+<sub>Output</sub>
+Make the text **Bold** like this.
+
 # Links
 Including links, either internal or external into the text.
 
@@ -174,12 +182,6 @@ Including links, either internal or external into the text.
 <sub>Output</sub>
 [Links](#Links)
 
-# Bold Text
-'''markdown
-Make the text **Bold** like this.
-'''
-<sub>Output</sub>
-Make the text **Bold** like this.
 
 
 
