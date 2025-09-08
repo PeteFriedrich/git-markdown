@@ -7,6 +7,7 @@ Markdown is a lightweight markup language that is used to create formatted text 
 * [Lists](#lists)
 * [Manipulations](#Manipulations)
 * [links](#Links)
+* [bold text](#Bold)
 
 # Headings
 Headings in Markdown can be written in Markdown or HTML the choice is up to you.
@@ -173,6 +174,12 @@ Including links, either internal or external into the text.
 <sub>Output</sub>
 [Links](#Links)
 
+# Bold Text
+'''markdown
+Make the text **Bold** like this.
+'''
+<sub>Output</sub>
+Make the text **Bold** like this.
 
 
 
